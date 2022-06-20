@@ -1,4 +1,4 @@
 # Shell SQL CLI
 
-* SQLite ~ OLTP workloads
-* DuckDB ~ OLAP workloads
+* SQLite https://www.sqlite.org/ ~ OLTP workloads
+* DuckDB https://duckdb.org/ ~ OLAP workloads
